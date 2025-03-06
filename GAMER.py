@@ -41,7 +41,7 @@ ALLOWED_GROUP_ID = -1002328886935  # Replace with your actual group ID
 def is_allowed_group(chat_id):
     return chat_id == ALLOWED_GROUP_ID
 
-def check_cooldown(user_id: int) -> tuple[bool, int]:
+def check_cooldown(user_id: int) -> Tuple[bool, int]:
     """
     Check if a user is in cooldown period - Disabled
     Returns (False, 0) to allow immediate attacks
