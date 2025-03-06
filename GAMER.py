@@ -6,7 +6,7 @@ import telebot
 import asyncio
 import random
 import string
-from typing  import  Turple
+from typing  import  Tuple
 from datetime import datetime, timedelta
 from telebot.apihelper import ApiTelegramException
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
