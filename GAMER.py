@@ -29,7 +29,7 @@ KEY_PRICES = {
     'Month': 1200.# 1200 Rs per Month
 }
 ADMIN_IDS = [1807014348, 1866961136]
-BOT_TOKEN = "7597946753:AAGb-lY5g_38FJDAy8DFI1DHUFK6mtCzxzQ"
+BOT_TOKEN = "7302230202:AAEbdLNMabuZ4-zwNUbrA2wnaFZEWXgtP-s"
 thread_count = 500
 packet_size = 12
 ADMIN_FILE = 'admin_data.json'
